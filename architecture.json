@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment_scottish_maximalist_power_corruption",
+  "title": "The Granite King",
+  "tagline": "In the cold North Sea, a man who built an empire on knowledge must now defend it with the very corruption he despises.",
+  "target_words": 70000,
+  "actual_words": 78314,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Corruption of Principled Power",
+    "Knowledge vs. Narrative in Business",
+    "The Isolation of Command",
+    "The Moral Cost of Empire-Building"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Lagavulin Lesson",
+      "words": 3263
+    },
+    {
+      "ch": 2,
+      "title": "The Whispering Board",
+      "words": 0
+    },
+    {
+      "ch": 3,
+      "title": "The Eastward Play",
+      "words": 0
+    },
+    {
+      "ch": 4,
+      "title": "The Core Sample Truth",
+      "words": 0
+    },
+    {
+      "ch": 5,
+      "title": "A Cat That Got the Cream",
+      "words": 0
+    },
+    {
+      "ch": 6,
+      "title": "The Norwegian Gambit",
+      "words": 0
+    },
+    {
+      "ch": 7,
+      "title": "The Geology of Deceit",
+      "words": 0
+    },
+    {
+      "ch": 8,
+      "title": "The First Compromise",
+      "words": 0
+    },
+    {
+      "ch": 9,
+      "title": "Narrative as Weapon",
+      "words": 0
+    },
+    {
+      "ch": 10,
+      "title": "The Shetland Precedent",
+      "words": 0
+    },
+    {
+      "ch": 11,
+      "title": "The Dinosaur's Roar",
+      "words": 0
+    },
+    {
+      "ch": 12,
+      "title": "Lines in the Sandstone",
+      "words": 0
+    },
+    {
+      "ch": 13,
+      "title": "The Cost of Caution",
+      "words": 0
+    },
+    {
+      "ch": 14,
+      "title": "Pressure Like a Gale",
+      "words": 0
+    },
+    {
+      "ch": 15,
+      "title": "The Antique Method",
+      "words": 0
+    },
+    {
+      "ch": 16,
+      "title": "Rewriting Reputation",
+      "words": 0
+    },
+    {
+      "ch": 17,
+      "title": "The Treacherous Beast",
+      "words": 0
+    },
+    {
+      "ch": 18,
+      "title": "A Testing of the Walls",
+      "words": 0
+    },
+    {
+      "ch": 19,
+      "title": "Acute Discomfort",
+      "words": 0
+    },
+    {
+      "ch": 20,
+      "title": "The Stain on the Oak",
+      "words": 0
+    },
+    {
+      "ch": 21,
+      "title": "Fool or Forger",
+      "words": 0
+    },
+    {
+      "ch": 22,
+      "title": "The Final Forecast",
+      "words": 0
+    },
+    {
+      "ch": 23,
+      "title": "King of the Library",
+      "words": 0
+    },
+    {
+      "ch": 24,
+      "title": "The New Psalm",
+      "words": 0
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where Ham, to outmaneuver Grier, must forge an alliance with a former rival he once ruined, exploring the bitter taste of necessary compromise.",
+      "Draft the internal memo from Alastair Grier to the board, framing Ham's meticulousness as a dangerous liability to shareholder value, using modern financial jargon as a weapon.",
+      "Compose Mhairi's private journal entry after the events of Chapter 1, revealing her own fears for Ham and the company, and perhaps a long-hidden personal loyalty.",
+      "Imagine a flashback chapter to a young Ham MacTavish in the 1980s, using the same ruthless, knowledge-first tactics to secure his first major oil concession, drawing a parallel to his present crisis."
+    ],
+    "technical": [
+      "Build a 'Narrative vs. Geology' dashboard that visualizes the conflict: one side tracks board sentiment, media headlines, and stock price (Narrative), the other tracks real drilling data, safety metrics, and core sample accuracy (Geology).",
+      "Design a 'Power Probe' simulation where the user plays as Ham, receiving increasingly ambiguous reports from subordinates. Each decision to investigate or ignore drains a 'Trust/Time' resource, modeling the erosion of a leader's position."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Adam Smith (on the corruption of prudent self-interest into monopolistic power)",
+      "Robert Burns (on the hypocrisy of the powerful and the value of authentic character)",
+      "Niccolò Machiavelli (on the practical necessities of acquiring and maintaining power in a treacherous world)",
+      "Hannah Arendt (on the banality of evil within corporate structures and the isolation of the ruler)"
+    ]
+  },
+  "cover_prompt": "A powerful, aging industrialist in a bespoke Victorian suit stands defiantly on a storm-lashed cliffside platform, his hand resting on a cold granite plinth carved with intricate, glowing geometric schematics, representing his empire of knowledge, while dark, oily tendrils of abstract corruption snake up from the rocks to coil around his legs and the plinth, symbolizing the necessary evil he must embrace, set against the dramatic backdrop of the churning, icy North Sea and a brooding Scottish coastal estate under a twilight sky, in the highly detailed and symbolically rich style of a modern classical painter like Anselm Kiefer mixed with the dramatic luminosity of Rembrandt, executed as a book cover with a centered, monumental composition viewed from a low, heroic angle, featuring stark chiaroscuro lighting that pits the warm, golden glow of knowledge from the schematics against the cold, blue-black shadows of the encroaching corruption and stormy sea, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
