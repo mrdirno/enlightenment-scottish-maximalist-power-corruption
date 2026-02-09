@@ -2,7 +2,9 @@
 
 ## **CHAPTER 1**
 
-The whisky was a sixteen-year-old Lagavulin, the colour of polished mahogany, and it was about to be wasted. Hamish ‘Ham’ MacTavish watched the amber pool spread across the varnished oak of his desk, a slow, deliberate stain. It seeped into the grain, over the edge of his open ledger, and dripped onto the Persian rug below, a gift from a man whose name he’d already forgotten. He didn’t move to stop it. The glass, now empty, he set down with a precise *tock* beside the bottle.
+Edinburgh’s New Town was a geometry of ambition, its sandstone facades carved not with saints but with ledgers, each column a calculation in perfect, rational proportion. Inside, Alexander Monro’s scalpel hovered over the cadaver’s exposed heart, a demonstration for the gentlemen investors. Enlightenment, he thought, was a clean incision. Power, he did not yet think, was the hand that held the knife.
+
+
 
 “That,” he said, his voice a low rumble from the cavern of his chest, “was a sin against the island of Islay.”
 
